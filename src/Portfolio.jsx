@@ -23,6 +23,13 @@ function Portfolio() {
          "Customer management system built with Laravel APis and Vue frontend.",
        link: "https://shop.vcaretrichology.com/login",
      },
+     {
+       title: "Laravel + Vue CRM",
+       tags: ["PHP", "Laravel", "Vue.js"],
+       description:
+         "Customer management system built with Laravel APis and Vue frontend.",
+       link: "https://shop.vcaretrichology.com/login",
+     },
    ];
  
    const skills = [
