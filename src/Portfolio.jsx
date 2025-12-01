@@ -91,7 +91,7 @@ function Portfolio() {
                  transition={{ duration: 0.6 }}
                  className="text-4xl md:text-6xl font-extrabold leading-tight"
                >
-                Transforms Ideas Into   <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400">Impact</span> With Me
+                Transform Ideas Into   <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400">Impact</span> With Me
                </motion.h1>
  
                <motion.p
